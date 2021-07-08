@@ -3,8 +3,8 @@ catagory: Aktueel
 title: Bitcoin – Belaglik of belê?
 subtitle: ''
 author: Leandri Odendal
-image_url: bitcoin
-image_credit: none
+image_url: none
+image_credit: ''
 ---
 
 Ek moet bieg, ek het eers aandag aan _Bitcoin_ geskenk toe Elon Musk op Twitter aangekondig het dat jy ’n _Tesla_ met _Bitcoin_ kan koop. (Al het Musk intussen sy bande met _Bitcoin_ ten gunste van _Dogecoin_ verbreek, geld dié bostaande stelling steeds.)

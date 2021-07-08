@@ -3,8 +3,8 @@ author: Janike Smith
 catagory: Aktueel
 title: Brei nie so outyds as wat jy dink nie
 subtitle: ''
-image_url: brei
-image_credit: none
+image_url: none
+image_credit: ''
 ---
 
 Kabel, vissersmanrib, aweregs…
