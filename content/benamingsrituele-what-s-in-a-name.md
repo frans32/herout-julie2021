@@ -3,10 +3,10 @@ catagory: Kultuur
 title: 'Benamingsrituele: What’s in a name?'
 subtitle: ''
 author: Hellmuth Weich
-image_url: benamingsrituele
+image_url: none
 image_credit: ''
-
 ---
+
 Die naam is ’n universele begrip. Almal het ene, al sukkel jy soms om dit te onthou. Tog, bestaan daar ’n komplekse en ryk geskiedenis agter hierdie eenvoudige begrip. Gevolglik verskil die ervarings rondom benaming van ’n baba in ’n moderne Westerse land, Antieke Rome of in ’n Brasiliaanse dorpie hemelsbreed van mekaar.
 
 Daar is min rituele wat spesifiek handel oor die benaming van ’n kind in die Afrikaanse kultuur. Die doop is een seremonie wat dalk hieroor handel, maar nie alle babas ondergaan dit nie en dit handel meer oor geboorte self as die blote benaming van die kind. Ander kulture het wel aansienlik meer gespesialiseerde benamingsrituele.

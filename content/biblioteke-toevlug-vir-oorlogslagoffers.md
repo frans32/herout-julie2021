@@ -4,9 +4,9 @@ title: 'Biblioteke: toevlug vir oorlogslagoffers'
 subtitle: ''
 author: Renska Krynauw
 image_url: biblioteek
-image_credit: ''
-
+image_credit: none
 ---
+
 Boeke. Iets wat orals rondom ons te vinde is. Met die druk van ’n knoppie kan ons deesdae toegang kry tot ’n hele nuwe denkbeeldige wêreld waar ons ons kreatiwiteit, wat binne ons rondworstel, kans kan gee om uitgeleef te word; waar ons ’n kans kry om van die alledaagse spanning weg te breek.
 
 In ’n plek wat deur oorlog verwoes is en hongerte elke inwoner se gedagtes oorheers, sou jy beslis nie verwag om ’n groot belangstelling in boeke te vind nie. Dit is egter juis die teenoorgestelde.

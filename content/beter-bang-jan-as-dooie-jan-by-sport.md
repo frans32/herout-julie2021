@@ -1,12 +1,12 @@
 ---
 catagory: Sport
-title: "“Beter Bang Jan as Dooie Jan” by Sport"
+title: '“Beter Bang Jan as Dooie Jan” by Sport'
 subtitle: ''
 author: Leanri Pretorius
 image_url: sport
-image_credit: ''
-
+image_credit: none
 ---
+
 Soos die idioom sê, is dit beter om versigtig te wees as om later spyt te wees oor die gevolge van ondeurdagte aksies.
 
 Op 19 Mei 2021 het die Departement van Basiese Onderwys aangekondig dat die wedstryde van kontaksporte, bv. hokkie, netbal en rugby, by alle skole onmiddellik gestaak moet word. Oefeninge van kontaksporte mag egter aangaan met fiksheid indien afrigters en spelers alle Kovid-19-veiligheidsmaatreëls volg. Met skole wat nou gesluit is, is die toekoms van daardie oefeninge ook egter onseker.

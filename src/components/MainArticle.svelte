@@ -32,7 +32,6 @@
 <style>
 	.background {
 		background: #fff0c9;
-		background: #fff;
 	}
 
 	.articleInfo {

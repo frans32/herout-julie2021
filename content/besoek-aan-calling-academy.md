@@ -1,12 +1,12 @@
 ---
 catagory: Aktueel
-title: Besoek aan Calling Academy
+title: Besoek aan <i>Calling Academy</i>
 subtitle: ''
 author: Kaylin Grobler
-image_url: calling-academy
+image_url: none
 image_credit: ''
-
 ---
+
 In Meimaand het ons raad van leerders en die raad van leerders van _Calling Academy,_ ’n seunskool in Stellenbsoch, aan ’n uitruilprogram deelgeneem. Hulle het mekaar se skole besoek met die doel om leierskapsvaardighede te leer.
 
 Hierdie program is van stapel gestuur om altwee skole die geleentheid te gee om hulle perspektiewe te verbreed. Wyer insigte is dikwels moeilik om te bekom indien ’n mens se wêrelduitkyk nie uitgedaag word nie. Mnr. Dippenaar, ons skool se adjunkhoof, gee leiding aan hierdie opwindende geleentheid, saam met mnr. W. Cloete, die skoolhoof van _Calling Academy_.

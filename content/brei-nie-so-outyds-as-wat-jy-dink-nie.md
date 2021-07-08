@@ -4,9 +4,9 @@ catagory: Aktueel
 title: Brei nie so outyds as wat jy dink nie
 subtitle: ''
 image_url: brei
-image_credit: ''
-
+image_credit: none
 ---
+
 Kabel, vissersmanrib, aweregs…
 
 Ontspan, jy is veilig op land en nie op die see nie. Die bostaande terme wat vir breiwerk gebruik word, is totaal vreemd vir die standaardtiener, want om te brei is wat ons oumas gedoen het omdat hulle niks beter gehad het om te doen nie. Of so dink die meeste van ons!
@@ -21,7 +21,7 @@ Die groepie wissel gewoonlik van ongeveer 10 leerders en ’n paar onderwysers. 
 
 As jy ook wil begin brei, saam met ander of op jou eie, is hier ’n webtuiste wat jou in ’n japtrap in ’n brei-boffin sal verander:
 
-[https://sheepandstitch.com/how-to-knit/](https://sheepandstitch.com/how-to-knit/ "https://sheepandstitch.com/how-to-knit/")
+[https://sheepandstitch.com/how-to-knit/](https://sheepandstitch.com/how-to-knit/ 'https://sheepandstitch.com/how-to-knit/')
 
 Op hierdie webtuiste is daar eenvoudige stappe vir absolute beginners, van die heel begin om jou wol op die pen te kry tot waar jy jou meesterstuk afrond. Dit bevat ook foto’s om jou op die regte spoor te hou.
 

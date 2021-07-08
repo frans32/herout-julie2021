@@ -4,9 +4,9 @@ title: Bitcoin – Belaglik of belê?
 subtitle: ''
 author: Leandri Odendal
 image_url: bitcoin
-image_credit: ''
-
+image_credit: none
 ---
+
 Ek moet bieg, ek het eers aandag aan _Bitcoin_ geskenk toe Elon Musk op Twitter aangekondig het dat jy ’n _Tesla_ met _Bitcoin_ kan koop. (Al het Musk intussen sy bande met _Bitcoin_ ten gunste van _Dogecoin_ verbreek, geld dié bostaande stelling steeds.)
 
 Wat is _Bitcoin_? Dit is die heel eerste kripto-geldeenheid wat in 2009 geskep is (in 2021 bestaan daar reeds meer as 4 000 verskillende kripto-geldeenhede). Hierdie geld bestaan slegs digitaal (byvoorbeeld op jou rekenaar of selfoon) en dit is nie verbind aan enige politiese of sentrale bankstelsel van enige land nie.
