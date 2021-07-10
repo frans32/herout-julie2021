@@ -8,8 +8,8 @@
 	<slot />
 	<section class="articleInfo">
 		<div class="catagory">{mainArticle.catagory}</div>
-		<h1 in:fly={{ duration: 500, y: 30, opacity: 0 }}>{mainArticle.title}</h1>
-		<div in:fly={{ delay: 100, duration: 500, y: 20, opacity: 0 }} class="author">
+		<h1 in:fly={{ duration: 500, y: 20, opacity: 0 }}>{mainArticle.title}</h1>
+		<div in:fly={{ delay: 100, duration: 500, y: 15, opacity: 0 }} class="author">
 			{mainArticle.author}
 		</div>
 	</section>

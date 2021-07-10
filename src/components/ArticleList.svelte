@@ -3,7 +3,7 @@
 </script>
 
 <section>
-	<h2 class="heading">Aktueel</h2>
+	<h2 class="heading">Artikels</h2>
 
 	{#each articles as article, i}
 		<a href="/artikels/{article.slug}" class="article">

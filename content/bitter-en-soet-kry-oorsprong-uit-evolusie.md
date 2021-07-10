@@ -1,26 +1,30 @@
 ---
 catagory: Aktueel
-title: Bitter en Soet Kry Oorsprong uit Evolusie
+title: Bitter of Soet?
 subtitle: ''
 author: Mia Groenewald
 image_url: bitter
 image_credit: ''
 
 ---
-Broccoli of sjokolade? Aspersies of roomys? Bitter of soet?
+Brokkoli of sjokolade? Aspersies of roomys? Bitter of soet?
 
-Het jy al ooit gewonder hoekom mense oor die algemeen ’n voorkeur het vir soet smake eerder as iets wat bitter proe? Ons sal eerder ’n hand vol aarbeie of bloubessies eet voordat ons tong aan ’n stukkie spruitkool raak.
+Het jy al ooit gewonder hoekom mense oor die algemeen ’n voorkeur het vir soet smake eerder as iets wat bitter proe? Hoekom sal ons eerder ’n handvol aarbeie of bloubessies eet voordat ons ons tong aan ’n klein stukkie spruitkool sal laat raak?
 
-Hierdie hunkering na soet geure en afkeur van bitterheid is ons liggaam se manier om as ’n veiligheidswag op te tree. As ons in diepte gaan kyk na die rede wat hieragter skuil, moet ons terugreis na meer as 200 miljoen jaar gelede en by ons voorouers ’n draai gaan maak.
+As ons dieper gaan kyk na die rede wat hieragter skuil, moet ons 200 miljoen jaar gelede terugreis en by ons voorouers ’n draai gaan maak.
 
-Ons bitter-respetore het al 200 miljoen jaar gelede ontwikkel om ons teen die potensiële inname van giftige stowwe te beskerm. Gebiede soos Asië, Afrika en Suid-Amerika het oorspronklik ’n hoër konsentrasie giftige plante en diere gehad. Die onaangename, bitter smaak in hierdie plante en diere het verseker dat ons voorouers dit nie weer eet nie en makliker die gifstowwe kon identifiseer. Hoogs voedsame groente is bekend daarvoor om die bitter smaak reseptore te aktiveer. Mense wat hedendaags baie sensitief vir bitter smake is, is geneig om nie’n voldoende aantal voedsame groete in te kry nie. Dit is as gevolg van die onaangename bitter smaak in sekere groente en kan tot gesondheidsuitdagings lei.
+Die bitter-smaakreseptore het 200 miljoen jaar terug ontwikkel om organismes te beskerm teen die potensiële inname van gifstowwe. Gebiede soos Asië, Afrika en Suid-Amerika het oorspronklik ’n hoër konsentrasie giftige plante en diere gehad. Smaakreseptore het ontwikkel sodat dit uiters onaangenaam (bitter) sou proe indien iets giftigs geëet word. Dit het verseker dat organismes giftige plante en diere sou kon identifiseer en vermy.
 
-Destyds was die beste kans op oorlewing om so veel moontlik kalorieë in te neem wat die liggaam energie gee. Die suiker wat in plante en vrugte voorkom, verskaf die meeste energie en was gesond in die klein hoeveelhede wat dit toe beskikbaar was. Daar het dus ’n hunkering daarna ontwikkel as ’n belangrike manier van voortbestaan. Vandag is hierdie smag na suiker egter vergroot omdat suikers in meeste tipes kos voorkom. Dit word in oormaat ingeneem en het sy eie gesondheidsprobleme soos vetsug tot gevolg. Die probleem is dat meeste van ons nie besef hoe groot ons suiker inname is nie. Dit kan dus maklik verslawend raak.
+Deesdae aktiveer uiters voedsame groente ons bitter-smaakreseptore. Party mense is baie sensitief vir bitter smake. Hulle kry gevolglik dikwels ’n onvoldoende aantal voedsame groente in. Dit kan beteken dat hulle nie genoeg voedingstowwe in hulle dieet inneem nie, wat tot gesondheidsuitdagings lei.
 
-Maar dit is ook nie die enigste rede hoekom jy ’n sjokoladekoek in plaas van ’n broccoli-koek vir jou verjaarsdag kry nie…
+Nou weet ons hoekom ons bitter smake haat, maar wat veroorsaak dat ons so dikwels lus is vir ’n stukkie koek of sjokolade?
 
-Suikers stel dopamine in ons liggame vry en veroorsaak natuurlik ’n groter lus vir ongesonde suikers. Dit is hoekom jy uiteindelik met ’n hele pakkie winegums in jou mond sit in plaas van net twee.
+In die oertyd was dit belangrik vir oorlewing om so veel moontlik kalorieë in te neem omdat dit baie energie aan die liggaam verskaf. Die suikers wat in plante en vrugte voorkom, verskaf baie energie en was gesond in die klein hoeveelhede wat dit toe beskikbaar was. Daar het dus ’n hunkering daarna ontwikkel as ’n manier van voortbestaan. Vandag is hierdie hunkering egter vergroot, omdat suikers in die meeste tipes kos voorkom. Dit word in oormaat ingeneem en het gesondheidsprobleme soos obesiteit of diabetes tot gevolg. Die probleem is dat die meeste van ons nie bewus is van die hoeveelheid suiker wat ons inneem nie en dit is baie maklik vir ons om aan suiker verslaaf te raak.
 
-Die gene wat die bitter en soet smake waarneem, het albei hul voordele en nadele maar soos in alle dinge in die lewe is ’n goeie balans belangrik om gesondheidsprobleme te vermy.
+Maar dit is ook nie die enigste rede waarom jy ’n sjokoladekoek in plaas van ’n brokkolikoek vir jou verjaarsdag kry nie…
 
-Bly dus kalm en eet jou groente (en gesonde suikers)! Netnou gaan die paashaas regte eiers in jou tuin wegsteek!
+Deesdae, as ons suiker eet, word opioïede en dopamien in ons bloed vrygestel. Hierdie twee stowwe is verslawend en dit is hoekom jy op die ou einde ’n hele pakkie _winegums_ verorber in plaas van net twee. Die vrystelling van dié stowwe veroorsaak ’n groter lus vir ongesonde suikers.
+
+Beide ons bitter- en soet-smaakreseptore het hulle voordele en nadele, maar soos met alles in die lewe is ’n goeie balans die gesondste.
+
+Bly dus kalm en eet jou groente (en gesonde suikers)! Dalk gaan die paashaas regte eiers in jou tuin begin wegsteek…

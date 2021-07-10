@@ -21,7 +21,7 @@
 	.heading {
 		display: flex;
 		justify-content: space-between;
-		font: 500 24px/1 'Jost', sans-serif;
+		font: 400 24px/1 'Jost', sans-serif;
 		color: #1c00c7;
 		margin: 0;
 	}
@@ -29,14 +29,10 @@
 	.heading:after {
 		content: '';
 		background: #1c00c7;
-		width: 10px;
-		height: 6px;
+		width: 8px;
+		height: 4px;
 		border-radius: 5px;
 		margin: 9px 0;
-	}
-
-	.list {
-		margin: 24px 0;
 	}
 
 	.article {
