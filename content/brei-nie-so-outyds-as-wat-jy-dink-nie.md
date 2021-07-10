@@ -3,7 +3,7 @@ author: Janike Smith
 catagory: Aktueel
 title: Brei nie so outyds as wat jy dink nie
 subtitle: ''
-image_url: none
+image_url: brei
 image_credit: ''
 ---
 

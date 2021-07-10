@@ -7,7 +7,7 @@
 
 	{#each articles as article, i}
 		<a href="/artikels/{article.slug}" class="article">
-			<img loading="lazy" width="64" height="64" alt="" src="/i/192/{article.imageURL}.jpg" />
+			<img loading="lazy" width="72" height="72" alt="" src="/i/192/{article.imageURL}.jpg" />
 			<div>
 				<h3>{@html article.title}</h3>
 				<div class="author">{article.author}</div>
@@ -18,36 +18,37 @@
 
 <style>
 	section {
-		padding: 24px 20px;
+		padding: 0 20px;
 	}
 
 	.heading {
-		font: 600 24px/0.83 'Shippori Mincho', sans-serif;
-		color: #222;
-		margin: 0;
+		font: 400 24px/0.69 'Jost', sans-serif;
+		color: #1647a0;
+		margin: 8px 0 0;
 		border-bottom: 1px solid #e5e5e5;
 	}
 
 	.article {
 		display: flex;
-		padding: 20px 0;
+		padding: 16px 0;
 		border-bottom: 1px solid #e5e5e5;
 		text-decoration: none;
 		-webkit-tap-highlight-color: transparent;
 	}
 
 	.article > div {
-		margin-left: 15px;
+		margin-left: 12px;
 	}
 
 	.article h3 {
-		font: 400 24px/1.2 'Shippori Mincho', serif;
+		font: 400 24px/28px 'Shippori Mincho', serif;
 		color: #3d3d3d;
 		margin: 0 0 0 0;
 	}
 
 	.article .author {
 		color: #555555;
+		font-size: 16px;
 		margin-top: 12px;
 	}
 

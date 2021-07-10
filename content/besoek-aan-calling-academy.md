@@ -3,7 +3,7 @@ catagory: Aktueel
 title: Besoek aan <i>Calling Academy</i>
 subtitle: ''
 author: Kaylin Grobler
-image_url: none
+image_url: calling-academy
 image_credit: ''
 ---
 

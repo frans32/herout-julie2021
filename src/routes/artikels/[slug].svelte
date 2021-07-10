@@ -50,6 +50,8 @@
 <style>
 	main {
 		padding: 24px 0 20px;
+		max-width: 780px;
+		margin: 0 auto;
 	}
 
 	.articleInfo {
@@ -91,7 +93,7 @@
 	}
 
 	.content {
-		font: 20px/1.6 'PT Serif', Roboto, sans-serif;
+		font: 19px/1.7 'PT Serif', Roboto, sans-serif;
 		color: #333333;
 		padding: 0 20px;
 	}

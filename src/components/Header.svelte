@@ -37,6 +37,8 @@
 <style>
 	header {
 		padding: 20px 20px 0;
+		margin: 0 auto;
+		max-width: 780px;
 		color: #3d3d3d;
 	}
 

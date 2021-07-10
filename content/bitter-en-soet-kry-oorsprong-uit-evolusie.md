@@ -1,12 +1,12 @@
 ---
 catagory: Aktueel
-title: Bitter of Soet?
+title: Bitter en Soet Kry Oorsprong uit Evolusie
 subtitle: ''
 author: Mia Groenewald
 image_url: bitter
 image_credit: ''
-
 ---
+
 Brokkoli of sjokolade? Aspersies of roomys? Bitter of soet?
 
 Het jy al ooit gewonder hoekom mense oor die algemeen ’n voorkeur het vir soet smake eerder as iets wat bitter proe? Hoekom sal ons eerder ’n handvol aarbeie of bloubessies eet voordat ons ons tong aan ’n klein stukkie spruitkool sal laat raak?

@@ -3,7 +3,7 @@ catagory: Aktueel
 title: Bitcoin – Belaglik of belê?
 subtitle: ''
 author: Leandri Odendal
-image_url: none
+image_url: bitcoin
 image_credit: ''
 ---
 

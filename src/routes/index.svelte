@@ -10,6 +10,7 @@
 	import MainArticle from '../components/MainArticle.svelte';
 	import DfWapen from '../components/DfWapen.svelte';
 	import ArticleList from '../components/ArticleList.svelte';
+	import Footer from '../components/Footer.svelte';
 
 	export let articles, mainArticleSlug;
 
@@ -38,6 +39,33 @@
 	<Header />
 </MainArticle>
 
-<ArticleList articles={articles.filter((i) => i.slug != mainArticleSlug)} />
+<div class="wrapper">
+	<div class="main">
+		<ArticleList articles={articles.filter((i) => i.slug != mainArticleSlug)} />
+	</div>
+	<div class="sidebar">
+		<DfWapen />
+		<Footer />
+	</div>
+</div>
 
-<DfWapen />
+<style>
+	.wrapper {
+		display: flex;
+		overflow: hidden;
+		margin: 0 auto;
+		width: 1000px;
+		max-width: 100vw;
+		padding: 24px 0 0;
+		flex-wrap: wrap;
+	}
+
+	.main {
+		flex: 1 680px;
+	}
+
+	.sidebar {
+		flex: 1 320px;
+		border-left: 1px solid #e5e5e5;
+	}
+</style>
