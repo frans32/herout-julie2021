@@ -25,7 +25,7 @@
 			/>
 			<img class="heroImg" src="/i/720/{mainArticle.imageURL}.jpg" alt="" />
 		</picture>
-		<a class="btnLees" href="/artikels/{mainArticle.slug}">Lees</a>
+		<a href="/artikels/{mainArticle.slug}" class="btnLees">Lees</a>
 	</div>
 </div>
 

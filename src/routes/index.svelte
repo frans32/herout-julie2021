@@ -14,7 +14,6 @@
 	export let articles, mainArticleSlug;
 
 	let mainArticle = articles.find((e) => e.slug == mainArticleSlug);
-	let otherArticles = articles.filter((i) => i.slug != mainArticleSlug);
 </script>
 
 <svelte:head>
@@ -39,6 +38,6 @@
 	<Header />
 </MainArticle>
 
-<ArticleList articles={otherArticles} />
+<ArticleList articles={articles.filter((i) => i.slug != mainArticleSlug)} />
 
 <DfWapen />
