@@ -24,8 +24,14 @@
 	.heading {
 		font: 400 24px/0.69 'Jost', sans-serif;
 		color: #1647a0;
-		margin: 8px 0 0;
+		margin: 32px 0 4px;
 		border-bottom: 1px solid #e5e5e5;
+	}
+
+	@media (min-width: 700px) {
+		.heading {
+			margin: 16px 0 8px;
+		}
 	}
 
 	.article {

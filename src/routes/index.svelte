@@ -11,6 +11,7 @@
 	import DfWapen from '../components/DfWapen.svelte';
 	import ArticleList from '../components/ArticleList.svelte';
 	import Footer from '../components/Footer.svelte';
+	import Uitgawes from '../components/Uitgawes.svelte';
 
 	export let articles, mainArticleSlug;
 
@@ -45,6 +46,7 @@
 	</div>
 	<div class="sidebar">
 		<DfWapen />
+		<Uitgawes />
 		<Footer />
 	</div>
 </div>
@@ -56,7 +58,6 @@
 		margin: 0 auto;
 		width: 1000px;
 		max-width: 100vw;
-		padding: 24px 0 0;
 		flex-wrap: wrap;
 	}
 

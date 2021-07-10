@@ -37,8 +37,20 @@
 		color: #555555;
 		text-decoration: none;
 	}
+
+	a:hover {
+		color: #222;
+		transition: color 0.4s;
+	}
+
+	a:hover > svg {
+		margin-left: 12px;
+		fill: #222;
+	}
+
 	svg {
 		vertical-align: sub;
 		margin-left: 8px;
+		transition: margin-left 0.2s, fill 0.4s;
 	}
 </style>

@@ -20,4 +20,8 @@
 	footer a:active {
 		color: #222;
 	}
+
+	footer a:hover {
+		text-decoration: underline;
+	}
 </style>

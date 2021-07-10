@@ -60,7 +60,12 @@
 	.social > a {
 		text-decoration: none;
 		margin-left: 18px;
-		fill: #3d3d3d;
+		fill: currentColor;
+		transition: color 0.2s;
+	}
+
+	.social > a:hover {
+		color: #606060;
 	}
 
 	.social {
