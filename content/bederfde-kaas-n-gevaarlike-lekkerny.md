@@ -4,9 +4,9 @@ title: Bederfde Kaas – ’n Gevaarlike Lekkerny
 subtitle: ''
 author: Danielle Swanepoel
 image_url: bederf
-image_credit: ''
-
+image_credit: 'Emma Snyman'
 ---
+
 “Vrot” is dalk ’n oordrywing vir gefermenteerde kos, maar die proses kom op dieselfde neer – die ontbinding van organiese stowwe. Die enigste verskil is dat fermentasie ’n anaërobiese reaksie (in die afwesigheid van suurstof) is en in ’n suur medium plaasvind om nie-skadelike bakterie te betrek, anders as verotting waar beide onskadelike en skadelike bakterieë betrokke is.
 
 Daar is egter ’n tradisionele lekkerny wat ’n paar wenkbroue laat lig – _Casu Marzu_. Dit is ’n kaas wat tradisioneel op ’n Italiaanse eiland, Sardinië, van skaapmelk gemaak word. Daar is egter ’n kinkel in die storie: die hoofstap in die produksie van hierdie lekkerny is om die kaas vir drie maande buite te los totdat dit heeltemal deur larwes oorgeneem is.

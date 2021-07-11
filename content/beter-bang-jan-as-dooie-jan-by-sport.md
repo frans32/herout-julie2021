@@ -4,7 +4,7 @@ title: '“Beter Bang Jan as Dooie Jan” by Sport'
 subtitle: ''
 author: Leanri Pretorius
 image_url: sport
-image_credit: ''
+image_credit: 'Bianca Stander'
 ---
 
 Soos die idioom sê, is dit beter om versigtig te wees as om later spyt te wees oor die gevolge van ondeurdagte aksies.

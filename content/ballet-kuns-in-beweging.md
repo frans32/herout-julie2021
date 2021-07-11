@@ -4,9 +4,9 @@ title: Ballet – kuns in beweging
 subtitle: ''
 author: Juliet Behr
 image_url: ballet
-image_credit: ''
-
+image_credit: 'Emma Snyman'
 ---
+
 Aristokratiese vermaak in die gange van blink paleise, verhalend van mitologiese gebeure in uitspattige kostuums en maskers.
 
 Die grasieuse dansvorm het vir die eerste keer in die 15de eeu in Italië verskyn. Vandag is hierdie kunsvorm alombekend en gevorderd: van onelastiese materiaal tot ’n wye verskeidenheid gemaklike en aantreklike uitrustings.

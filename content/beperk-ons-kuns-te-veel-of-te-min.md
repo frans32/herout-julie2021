@@ -4,9 +4,9 @@ catagory: Kultuur
 title: Beperk Ons Kuns Te Veel of Te Min?
 subtitle: ''
 image_url: kuns
-image_credit: ''
-
+image_credit: 'Emma Olivier'
 ---
+
 Probeer gou aan ’n behoorlike definisie vir _kuns_ dink.
 
 Is dit moeilik vir jou? Dit is vir my.

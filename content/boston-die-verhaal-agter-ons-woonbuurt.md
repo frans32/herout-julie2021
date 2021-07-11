@@ -4,9 +4,9 @@ title: 'Boston: die verhaal agter ons woonbuurt'
 subtitle: ''
 author: Dehan Lotz
 image_url: boston
-image_credit: ''
-
+image_credit: 'Kayla de Freitas'
 ---
+
 Boston is vir die meeste van ons ’n doodgewone bestemming: die woonbuurt in Bellville waar ons skoolgaan. Tog is daar moontlik meer omtrent hierdie gebied as wat die oog gewaar.
 
 Het jy al ooit gewonder waar Boston se naam vandaan kom? Dié area was oorspronklik in die 1900’s _The Willows_ genoem. ’n Amerikaanse maatskappy het hierdie grond by ’n mnr. Duminy gekoop en dit onderverdeel. Die area is toe na Boston, Massachusetts in die VSA vernoem ter herinnering aan hulle tuiste. Dit is ook hoekom die meeste van ons Boston se strate VSA-gebaseerde name het: Washington, Cleveland, Broadway en Lincoln (om net ’n paar te noem). Die boustyl het oorspronklik hoofsaaklik uit Victoriaanse argitektuur bestaan. Die tekens daarvan kan vandag duidelik waargeneem word wanneer die vensters en dakke van die oudste geboue in Boston bestudeer word.

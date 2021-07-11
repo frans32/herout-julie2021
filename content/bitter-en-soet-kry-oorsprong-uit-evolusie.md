@@ -4,7 +4,7 @@ title: Bitter en Soet Kry Oorsprong uit Evolusie
 subtitle: ''
 author: Mia Groenewald
 image_url: bitter
-image_credit: ''
+image_credit: 'Danielle de Villiers'
 ---
 
 Brokkoli of sjokolade? Aspersies of roomys? Bitter of soet?

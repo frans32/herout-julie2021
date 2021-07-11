@@ -4,9 +4,9 @@ title: 'Bemarking Bulletin: ’n Oorsprongstorie'
 subtitle: ''
 author: Kyla van der Riel
 image_url: bemarking-bulletin
-image_credit: ''
-
+image_credit: 'Bemarking Bulletin'
 ---
+
 Dee-Effers, verbeel julle ’n DF waar _Doughnut_ Donderdae net nóg ’n Donderdag is en ARK-Week, net nóg ’n week. Dit sal ’n tragiese realiteit in ’n DF sonder ’n passievolle bemarkingskomitee wees.
 
 Die _Bemarking Bulletin_ is in 2017 deur Hendré Cubitt gestig.

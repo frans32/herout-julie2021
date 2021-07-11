@@ -4,9 +4,9 @@ catagory: Sosiaal
 title: Bonsai - Klein boompies met groot aansien
 subtitle: ''
 image_url: bonsai
-image_credit: ''
-
+image_credit: 'Aimee Hough'
 ---
+
 Ek is seker ’n ieder en ’n elk van ons het al die beroemde Bonsai-boompies iewers gesien. Bonsai's verdien uit en uit hul plekkie onder die son.
 
 Die Japanese woord _Bonsai_ beteken letterlik _in ’n houer geplant_. Alhoewel die kuns van Bonsai oorspronklik gespruit het uit die 12de eeu van die antieke Chinese ryk, het die invloed van die Japanese Boeddiste die kuns herontwerp. Bonsai is ’n mengsel van tuinboukundigheid en kuns. Dit het ’n gewilde vorm van tuinkuns geword en is deesdae baie gesog.

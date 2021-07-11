@@ -4,7 +4,7 @@ title: Bespreking van Christopher Nolan se <i>Batman</i>-trilogie
 subtitle: ''
 author: Cara Reyneke
 image_url: batman
-image_credit: ''
+image_credit: 'Megan Weideman'
 ---
 
 Op reënerige dae waarvoor die Kaap deesdae bekend is, is daar niks beter as om onder die komberse te gaan lê en ’n lekker film te kyk nie. Met die eksamenlading ook nou van my skouers af, het ek besluit om myself kultureel te verfyn en so weggespring met Christopher Nolan se \_The Dark Night-\_Trilogie.

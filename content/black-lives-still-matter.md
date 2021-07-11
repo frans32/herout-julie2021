@@ -4,9 +4,9 @@ catagory: Sosiaal
 title: Black Lives Still Matter
 subtitle: ''
 image_url: blm
-image_credit: ''
-
+image_credit: 'Emma Olivier'
 ---
+
 Sosiale media is ’n kragtige ding. Dit kan gebruik word om lig te skyn op talle wêreldsake en kan nuus ongelooflik ver en vinnig versprei. Ongelukkig kan belangrike nuus net so vinnig weer oorwaai om plek te maak vir die nuutste groot storie.
 
 ’n Onlangse voorbeeld hiervan is die _Black Lives Matter_-beweging. Hierdie beweging bestaan al sedert 2013, maar dit het laas jaar wêreldbekend word toe George Floyd, ’n swart man, op 25 Mei deur ’n wit polisieman doodgemaak is. Die polisieman het vir nege minute en nege-en-twintig sekondes op George se nek gekniel, terwyl George gesmeek het dat hy nie asem kry nie. ’n Video van die voorval het baie vinnig oor die internet versprei. Mense het daar en dan besef dat rasgebaseerde polisiebrutaliteit hopeloos te veel gebeur en dat hulle nou genoeg daarvan gehad het. Hierdie tragiese gebeurtenis was ’n katalisator vir wêreldwye protesaksies.

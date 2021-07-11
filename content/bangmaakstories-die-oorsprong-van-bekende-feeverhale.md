@@ -4,9 +4,9 @@ title: Bangmaakstories die oorsprong van bekende feëverhale
 subtitle: ''
 author: Jana Burger
 image_url: bangmaakstories
-image_credit: ''
-
+image_credit: 'Emma Olivier'
 ---
+
 Ons het almal grootgeword met die bekende feëverhale wat herhaaldelik vir ons as kinders vertel is. Ons hoor hulle as slaaptydstories, sien hulle as animasiefilms van Disney en hoor hulle by die skool in jonger grade. Maar waarvandaan kom hierdie bekende verhale waarna ons so graag as kinders geluister het?
 
 Die oorsprong van sprokies dateer duisende jare terug en kom van reg oor die wêreld. Anders as volksverhale en legendes, verwys feëverhale baie min na geloof, spesifieke mense, plekke of gebeurtenisse. Die term _eendag lank gelede_ word eintlik gebruik in die plek van ’n spesifieke tyd.

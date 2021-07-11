@@ -4,7 +4,7 @@ title: Besoek aan <i>Calling Academy</i>
 subtitle: ''
 author: Kaylin Grobler
 image_url: calling-academy
-image_credit: ''
+image_credit: 'AWSUM School News'
 ---
 
 In Meimaand het ons raad van leerders en die raad van leerders van _Calling Academy,_ ’n seunskool in Stellenbsoch, aan ’n uitruilprogram deelgeneem. Hulle het mekaar se skole besoek met die doel om leierskapsvaardighede te leer.

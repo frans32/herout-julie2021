@@ -4,7 +4,7 @@ title: 'Benamingsrituele: What’s in a name?'
 subtitle: ''
 author: Hellmuth Weich
 image_url: benaming
-image_credit: ''
+image_credit: 'Cara Louw'
 ---
 
 Die naam is ’n universele begrip. Almal het ene, al sukkel jy soms om dit te onthou. Tog, bestaan daar ’n komplekse en ryk geskiedenis agter hierdie eenvoudige begrip. Gevolglik verskil die ervarings rondom benaming van ’n baba in ’n moderne Westerse land, Antieke Rome of in ’n Brasiliaanse dorpie hemelsbreed van mekaar.

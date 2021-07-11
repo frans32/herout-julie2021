@@ -4,7 +4,7 @@ title: 'Beïnvloeders: Hoe Bereik ’n Mens <i>Instagram</i>-roem?'
 subtitle: ''
 author: Leah Coetzee
 image_url: beinvloeders
-image_credit: ''
+image_credit: 'Emma Olivier'
 ---
 
 Het julle al ooit iemand op sosiale media gesien met ’n honderdduisend volgelinge en gewonder hoe op aarde hulle so gewild geraak het?
