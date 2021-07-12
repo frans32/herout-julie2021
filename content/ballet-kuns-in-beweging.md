@@ -2,7 +2,7 @@
 catagory: Kultuur
 title: Ballet – kuns in beweging
 subtitle: ''
-author: Juliet Behr
+author: Juliette Behr
 image_url: ballet
 image_credit: 'Emma Snyman'
 ---
