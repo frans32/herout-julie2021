@@ -21,20 +21,10 @@
 	}
 
 	.heading {
-		display: flex;
-		justify-content: space-between;
-		font: 400 24px/1 'Jost', sans-serif;
-		color: #1c00c7;
+		font: 400 24px/0.69 'Jost', sans-serif;
+		color: #0046c7;
 		margin: 0;
-	}
-
-	.heading:after {
-		content: '';
-		background: #1c00c7;
-		width: 8px;
-		height: 4px;
-		border-radius: 5px;
-		margin: 9px 0;
+		border-bottom: 1px solid #e5e5e5;
 	}
 
 	.article {
@@ -48,15 +38,31 @@
 	.article h3 {
 		font: 600 24px/1.2 'Shippori Mincho', serif;
 		color: #222222;
-		margin: 0 0 0 0;
+		margin: 0;
 	}
 
 	.article .author {
 		color: #555555;
 		margin-top: 8px;
+		font-size: 16px;
 	}
 
 	.article:active {
 		opacity: 0.8;
+	}
+
+	@media (min-width: 700px) {
+		.article {
+			padding: 24px 0;
+		}
+
+		.article h3 {
+			font: 600 26px/1.2 'Shippori Mincho', serif;
+		}
+
+		.article .author {
+			font-size: 18px;
+			margin-top: 12px;
+		}
 	}
 </style>

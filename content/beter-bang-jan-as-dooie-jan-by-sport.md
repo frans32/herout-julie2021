@@ -5,6 +5,7 @@ subtitle: ''
 author: Leanri Pretorius
 image_url: sport
 image_credit: 'Bianca Stander'
+type: large
 ---
 
 Soos die idioom sê, is dit beter om versigtig te wees as om later spyt te wees oor die gevolge van ondeurdagte aksies.

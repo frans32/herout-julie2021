@@ -5,6 +5,7 @@ subtitle: ''
 author: Dehan Lotz
 image_url: boston
 image_credit: 'Kayla de Freitas'
+type: large
 ---
 
 Boston is vir die meeste van ons ’n doodgewone bestemming: die woonbuurt in Bellville waar ons skoolgaan. Tog is daar moontlik meer omtrent hierdie gebied as wat die oog gewaar.

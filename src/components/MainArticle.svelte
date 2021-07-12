@@ -70,6 +70,18 @@
 			background: #fff0c9;
 		}
 
+		.catagory {
+			display: none;
+		}
+
+		h1 {
+			margin: 0 0 16px;
+		}
+
+		.author {
+			font-size: 16px;
+		}
+
 		.articleInfo {
 			padding: 20px;
 		}

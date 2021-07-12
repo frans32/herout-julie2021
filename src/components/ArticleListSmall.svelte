@@ -36,14 +36,14 @@
 	}
 
 	.article:active {
-		opacity: 0.8;
+		opacity: 0.94;
 	}
 
 	.article img {
 		object-fit: cover;
 		background: #f4f4f4;
 		border-radius: 8px;
-		box-shadow: #c4c70023 -3px 3px 0 -1px;
+		box-shadow: #00eeff1e -3px 3px 0 -1px;
 	}
 
 	@media (min-width: 700px) {
@@ -65,6 +65,11 @@
 		.article img {
 			width: 120px;
 			height: 120px;
+			transition: box-shadow 0.3s;
+		}
+
+		.article:hover img {
+			box-shadow: #00eeff5e -3px 3px 0 0;
 		}
 	}
 </style>

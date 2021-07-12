@@ -13,7 +13,7 @@
 
 	.heading {
 		font: 400 24px/0.69 'Jost', sans-serif;
-		color: #1647a0;
+		color: #0046c7;
 		margin: 0 0 16px 0;
 		border-bottom: 1px solid #e5e5e5;
 	}

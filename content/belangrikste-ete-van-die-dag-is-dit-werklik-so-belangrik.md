@@ -5,6 +5,7 @@ subtitle: ''
 author: Nienke de Vaal
 image_url: ontbyt
 image_credit: 'Shianne Brand'
+type: large
 ---
 
 Om ontbyt te eet of nie te eet nie - dit is die vraag (my verskonings aan Shakespeare). Daar is diegene wat hul dag nie kan begin sonder ’n vol maag nie, terwyl ander gril vir die gedagte aan enige kos oor hul lippe voor middagete.

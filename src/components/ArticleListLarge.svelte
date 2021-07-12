@@ -31,7 +31,7 @@
 	}
 
 	.article > div {
-		padding: 8px 0;
+		padding: 4px 0;
 	}
 
 	.article h3 {
@@ -47,7 +47,7 @@
 	}
 
 	.article:active {
-		opacity: 0.8;
+		opacity: 0.98;
 	}
 
 	.article img {
@@ -56,7 +56,7 @@
 		background: #f4f4f4;
 		border-radius: 8px;
 		width: 100%;
-		box-shadow: #c4c70023 -3px 3px 0 -1px;
+		box-shadow: #00eeff1e -3px 3px 0 -1px;
 	}
 
 	@media (min-width: 700px) {
@@ -78,6 +78,11 @@
 
 		.article img {
 			height: 300px;
+			transition: box-shadow 0.3s;
+		}
+
+		.article:hover img {
+			box-shadow: #00eeff5e -3px 3px 0 0;
 		}
 	}
 </style>
