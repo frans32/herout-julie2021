@@ -1,6 +1,6 @@
 ---
 catagory: Aktueel
-title: Bederfde Kaas – ’n Gevaarlike Lekkerny
+title: Bederfde Kaas – ’n gevaarlike Lekkerny
 subtitle: ''
 author: Danielle Swanepoel
 image_url: bederf

@@ -1,6 +1,6 @@
 ---
 catagory: Aktueel
-title: Bitter en Soet Kry Oorsprong uit Evolusie
+title: Bitter en soet kry oorsprong uit evolusie
 subtitle: ''
 author: Mia Groenewald
 image_url: bitter

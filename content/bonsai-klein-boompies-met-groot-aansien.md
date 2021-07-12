@@ -1,7 +1,7 @@
 ---
 author: Janike Smith
 catagory: Sosiaal
-title: Bonsai – Klein boompies met groot aansien
+title: Bonsai – klein boompies met groot aansien
 subtitle: ''
 image_url: bonsai
 image_credit: 'Aimee Hough'

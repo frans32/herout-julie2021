@@ -1,6 +1,6 @@
 ---
 catagory: Sport
-title: '“Beter Bang Jan as Dooie Jan” by Sport'
+title: '“Beter bang Jan as dooie Jan” by sport'
 subtitle: ''
 author: Leanri Pretorius
 image_url: sport

@@ -1,6 +1,6 @@
 ---
 catagory: Sosiaal
-title: 'Bemarking Bulletin: ’n Oorsprongstorie'
+title: 'Bemarking Bulletin: ’n oorsprongstorie'
 subtitle: ''
 author: Kyla van der Riel
 image_url: bemarking-bulletin

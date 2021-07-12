@@ -16,6 +16,6 @@ Jy mag vandag Boston as ’n normale, (soms) rustige woonbuurt beskou. Die geski
 
 Maar op ’n ligter noot (of eerder ’n meer melodieuse noot) is Boston die blyplek van menigte sterre soos Francois “van Coke” Badenhorst en Crystal-Donna Roberts, die eerste Suid-Afrikaanse aktrise om op die rooi tapyt by die Venesiese Filmfees in 2016 te loop. Donovan Wright, ’n atleet met ’n goue medalje in die Comrades en June van Merch en Albert Maritz, ikoniese akteurs, vorm ook deel van die beroemdes wat in Boston woon en grootgeword het. Albert Maritz het selfs by DF skoolgegaan.
 
-Ons Hoërskool DF Malan het in 1956 amptelik sy deure in Boston oopgemaak. Sedertdien het ons skool talle presteerders die wêreld ingestuur en onophoudelik na die beste gestreef. Groot musiekkunstenaars soos _Die Heuwels Fantasties_ en Loki Rothman het ook by DF skoolgegaan wat Boston die bynaam _Bellville Rock City_ gegee het.
+Ons Hoërskool DF Malan het in 1954 amptelik sy deure in Boston oopgemaak. Sedertdien het ons skool talle presteerders die wêreld ingestuur en onophoudelik na die beste gestreef. Groot musiekkunstenaars soos _Die Heuwels Fantasties_ en Loki Rothman het ook by DF skoolgegaan wat Boston die bynaam _Bellville Rock City_ gegee het.
 
 Boston (of _Bellville Rock City_) is werklik ’n unieke area waar bekende Suid-Afrikaners moontlik jou bure kan wees. ’n Ryk geskiedenis met sy interessante verhale draai uit om net so opwindend in die hede voort te leef.

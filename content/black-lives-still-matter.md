@@ -1,7 +1,7 @@
 ---
 author: Emma Crauwkamp
 catagory: Sosiaal
-title: Black Lives Still Matter
+title: <i>Black Lives</i> still <i>Matter</i>
 subtitle: ''
 image_url: blm
 image_credit: 'Emma Olivier'

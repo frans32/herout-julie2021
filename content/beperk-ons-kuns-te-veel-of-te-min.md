@@ -1,7 +1,7 @@
 ---
 author: Emma Olivier
 catagory: Kultuur
-title: Beperk Ons Kuns Te Veel of Te Min?
+title: Beperk ons kuns te veel of te min?
 subtitle: ''
 image_url: kuns
 image_credit: 'Emma Olivier'

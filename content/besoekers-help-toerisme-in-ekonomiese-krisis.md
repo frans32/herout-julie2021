@@ -1,6 +1,6 @@
 ---
 catagory: Aktueel
-title: Besoekers Help Toerisme in Ekonomiese Krisis
+title: Besoekers help toerisme in ekonomiese krisis
 subtitle: ''
 author: Kaylin Grobler
 image_url: reis
