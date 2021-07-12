@@ -1,5 +1,5 @@
 ---
-author: Emma Crauwkamp
+author: Emma Craucamp
 catagory: Sosiaal
 title: <i>Black Lives</i> still <i>Matter</i>
 subtitle: ''
