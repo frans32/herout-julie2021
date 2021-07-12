@@ -1,6 +1,6 @@
 ---
 catagory: Kultuur
-title: 'Benamingsrituele: What’s in a name?'
+title: 'Benamingsrituele: <i>What’s in a name?</i>'
 subtitle: ''
 author: Hellmuth Weich
 image_url: benaming

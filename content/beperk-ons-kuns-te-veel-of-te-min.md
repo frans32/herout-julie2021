@@ -27,7 +27,7 @@ Dit is nie noodwendig ’n slegte ding nie, maar dit beklemtoon die kwessie van 
 
 As ons dink dat iets _nie_ kuns is nie, het ons nie ’n goeie rede daarvoor nie. Daarom wonder ek wanneer kuns ophou om kuns te wees.
 
-Ek twyfel of enige iemand vandag sou verklaar dat die _Mona Lisa_ nie kuns is nie. Ons kan egter wonder of Rafael Perez Evans se _Grounding_ byvoorbeeld werlik ’n kunswerk is, of net ’n mors van kos (dit was die 29 ton wortels wat by Goldsmith Universiteit gestort is, as jy nie daarvan geweet het nie).
+Ek twyfel of enige iemand vandag sou verklaar dat die _Mona Lisa_ nie kuns is nie. Ons kan egter wonder of Rafael Perez Evans se _Grounding_ byvoorbeeld werklik ’n kunswerk is, of net ’n mors van kos (dit was die 29 ton wortels wat by Goldsmith Universiteit gestort is, as jy nie daarvan geweet het nie).
 
 Kuns wat in die verlede uitdagend en oorspronklik was, was noodsaaklik en dalk onafwendbaar vir die voortbestaan van kuns, maar het daartoe gelei dat sommige mense kuns skep wat in die verlede baanbrekerswerk sou wees, maar net vandag as onoorspronklik of niksseggend voorkom. Danksy die internet, ons vinnige wêreld, en die feit dat enige mense hulself kunstenaars kan noem, is dit moeilik om te bepaal wat kuns werklik is.
 

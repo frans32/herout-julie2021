@@ -12,7 +12,7 @@ Om ontbyt te eet of nie te eet nie - dit is die vraag (my verskonings aan Shakes
 
 Wie is reg?
 
-Die Engelse _breakfast_ beteken letterlik die breek van die vorige aand se vastydperk. Ontbyt gee ’n hupstoot vir jou metabolisme en help jou om kalorieë gedurende die dag beter te verbrand. Dit verskaf energie vir fisiese - en breinaktiwiteit. Dit is hoekom sommige mense ontbyt as só waardevol ag.
+Die Engelse _breakfast_ beteken letterlik die breek van die vorige aand se vastydperk. Ontbyt gee ’n hupstoot vir jou metabolisme en help jou om kalorieë gedurende die dag beter te verbrand. Dit verskaf energie vir fisiese- en breinaktiwiteit. Dit is hoekom sommige mense ontbyt as só waardevol ag.
 
 Mense slaan dikwels ontbyt oor omdat hulle nie honger is nie of te besig is.
 
