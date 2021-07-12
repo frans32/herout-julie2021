@@ -1,6 +1,6 @@
 ---
 catagory: Sosiaal
-title: 'Beïnvloeders: Hoe bereik ’n mens <i>Instagram</i>-roem?'
+title: 'Beïnvloeders: hoe bereik ’n mens <i>Instagram</i>-roem?'
 subtitle: ''
 author: Leah Coetzee
 image_url: beinvloeders

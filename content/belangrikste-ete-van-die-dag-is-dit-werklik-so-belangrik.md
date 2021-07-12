@@ -1,6 +1,6 @@
 ---
 catagory: Aktueel
-title: '“Belangrikste ete van die dag” – Is dit werklik so belangrik?'
+title: '“Belangrikste ete van die dag” – is dit werklik so belangrik?'
 subtitle: ''
 author: Nienke de Vaal
 image_url: ontbyt
