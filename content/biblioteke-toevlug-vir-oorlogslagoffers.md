@@ -3,8 +3,8 @@ catagory: Aktueel
 title: 'Biblioteke: toevlug vir oorlogslagoffers'
 subtitle: ''
 author: Renska Krynauw
-image_url: none
-image_credit: 'Bianca Stander'
+image_url: biblioteek
+image_credit: 'Renke Lorio'
 ---
 
 Boeke. Iets wat orals rondom ons te vinde is. Met die druk van ’n knoppie kan ons deesdae toegang kry tot ’n hele nuwe denkbeeldige wêreld waar ons ons kreatiwiteit, wat binne ons rondworstel, kans kan gee om uitgeleef te word; waar ons ’n kans kry om van die alledaagse spanning weg te breek.
