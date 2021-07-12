@@ -16,6 +16,8 @@
 <style>
 	section {
 		padding: 20px;
+		margin: 0 auto;
+		max-width: 780px;
 	}
 
 	.heading {

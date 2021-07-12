@@ -18,6 +18,7 @@ const articles = fileNames.map((fileName) => {
 		catagory: gm.data.catagory,
 		imageURL: gm.data.image_url,
 		imageCredit: gm.data.image_credit,
+		type: gm.data.type,
 		html
 	};
 });
@@ -29,7 +30,8 @@ export let getAllArticles = () =>
 			title: article.title,
 			author: article.author,
 			catagory: article.catagory,
-			imageURL: article.imageURL
+			imageURL: article.imageURL,
+			type: article.type
 		};
 	});
 
