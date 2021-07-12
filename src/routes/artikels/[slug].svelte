@@ -80,7 +80,7 @@
 
 	@media (min-width: 700px) {
 		.heroImg {
-			height: 360px;
+			height: 480px;
 		}
 	}
 
