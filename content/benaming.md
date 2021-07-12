@@ -1,12 +1,12 @@
 ---
 catagory: Aktueel
-title: Begin van ’n nuwe era
+title: 'Benaming: die proses van verandering'
 subtitle: ''
 author: Renke Lorio
 image_url: naamverandering
 image_credit: Bianca Stander
-
 ---
+
 In September 2019 het die Hoërskool DF Malan op die voorblad van _Die Burger_ verskyn. In Junie 2020 is ’n _Instagram_-rekening “ter ere” van ons skool se naam geskep. Vir ’n rukkie was die naam DF Malan op almal se lippe. Alhoewel hulle sê _“there is no such thing as bad publicity”_, is ek seker dat ’n hele klompie van ons anders gevoel het oor die manier waarop ons skool in die media uitgebeeld was.
 
 Die aanslag op ons skool was grootliks gemik op ons naam, maar dit het ook verskeie kwessies na vore gebring wat oor veel meer as blote simboliek gaan. Die kern van hierdie kwessies was, waarvoor staan ons en hoe sien ons die toekoms van ons skool in ’n Suid-Afrika wat drasties verskil van die land wat dit in 1954 was? Gevolglik is dit besluit om hierdie kwessies ten volle te ondersoek en tussen al die stemme ’n konsensus te bereik van wat ons DF-gemeenskap regtig voel.

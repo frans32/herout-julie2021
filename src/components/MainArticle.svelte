@@ -33,6 +33,10 @@
 </div>
 
 <style>
+	:root {
+		--background: #fff0c9;
+	}
+
 	.catagory {
 		text-transform: uppercase;
 		font: 500 14px/1 'Jost', apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto';
@@ -67,7 +71,7 @@
 
 	@media (max-width: 699px) {
 		.background {
-			background: #fff0c9;
+			background: var(--background);
 		}
 
 		/* .catagory {
@@ -123,7 +127,7 @@
 			flex-direction: column;
 			justify-content: center;
 			order: 1;
-			background: #fff0c9;
+			background: var(--background);
 			padding: 0 24px;
 			flex: 0 0 340px;
 			margin-left: 8px;
