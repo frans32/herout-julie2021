@@ -16,7 +16,6 @@
 
 <svelte:head>
 	<title>{article.title.replace('<i>', '').replace('</i>', '')} - Die Herout</title>
-	<meta name="robots" content="noindex" />
 </svelte:head>
 
 <Header />
